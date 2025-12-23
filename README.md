@@ -1,6 +1,9 @@
 # EARLY-SUICIDE-PREDICTION
  a machine learning–based framework for early suicide risk prediction using structured behavioral, demographic, and psychological indicators. The objective is to identify high-risk patterns at an early stage to support timely intervention, policy insights, and preventive decision-making.
+
+ 
 Methods & Techniques
+<img width="956" height="607" alt="Screenshot 2025-12-22 182905" src="https://github.com/user-attachments/assets/48d832c4-9c65-4d74-bdd5-e238dfc3db49" />
 
 Data preprocessing and feature engineering for high-dimensional risk indicators
 
